@@ -46,9 +46,21 @@
   background-color: #48bb78;
 }
 
-.ledStatusColor {
-  top: -16px;
-  left: 50px;
+.list-activity .count-container {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+
+.list-activity .count-container-number {
+  position: relative;
+  left: 7px;
+  top: 0px;
+}
+
+.list-activity .ledStatusColor {
+  top: -19px;
+  left: 61px;
   border: 1px solid white;
 }
 /*# sourceMappingURL=styles.css.map */
